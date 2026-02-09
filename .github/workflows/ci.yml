@@ -37,5 +37,5 @@ jobs:
         with:
           node-version: 22
      
-     - name: Style check
+      - name: Style check
         run: npm run format:check
